@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Awesome Quiz App | CodingNepal</title>
+    <title>Quiz Application | Marlon Brown</title>
     <link rel="stylesheet" href="style.css">
     <!-- FontAweome CDN Link for Icons-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
@@ -15,7 +15,7 @@
 
     <!-- Info Box -->
     <div class="info_box">
-        <div class="info-title"><span>Some Rules of this Quiz</span></div>
+        <div class="info-title"><span>Guide for the quiz</span></div>
         <div class="info-list">
             <div class="info">1. You will have only <span>15 seconds</span> per each question.</div>
             <div class="info">2. Once you select your answer, it can't be undone.</div>
