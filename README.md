@@ -10,10 +10,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
 </head>
 <body>
-    <!-- start Quiz button -->
+    
     <div class="start_btn"><button>Start Quiz Now</button></div>
 
-    <!-- Info Box -->
+    
     <div class="info_box">
         <div class="info-title"><span>Guide for the quiz</span></div>
         <div class="info-list">
@@ -29,7 +29,7 @@
         </div>
     </div>
 
-    <!-- Quiz Box -->
+    
     <div class="quiz_box">
         <header>
             <div class="title">Final Project Quiz Application</div>
